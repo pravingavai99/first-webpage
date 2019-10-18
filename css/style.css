@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  }
+  #example2 {
+  border: 2px ;
+  border-radius: 50px 20px;
+}
+#l1 {
+border: 2px ;
+border-radius: 50px 20px;
+}
+  body{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    background-image: url("../images/backg.jpg");
+    height: ; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat;/*  Do not repeat the image */
+    background-size: cover;
+
+  }
+  #im25 {
+    border: 2px ;
+    border-radius: 50px 20px;
+  }
+  .center {
+  margin: auto;
+  width: 50%;
+  border: 1px  ;
+  padding: 5px;
+}
+  .active {
+    background-color: #4CAF50;
+  }
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: green;
+}
